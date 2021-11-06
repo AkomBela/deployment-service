@@ -1,0 +1,2 @@
+gcloud compute firewall-rules create test-node-port \
+    --allow tcp:30008
